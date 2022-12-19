@@ -1,3 +1,5 @@
+
+//OUTPUTS
 output "app_server_arn" {
   value = aws_instance.web_sev.arn
 }
